@@ -192,3 +192,203 @@ section {
     text-align: center;
     margin-top: 10px;
 }
+@media (min-width: 1000px){
+    .nucleo {
+        right: 320px;
+    }
+    .lisosoma {
+        right: 470px;
+    }
+    .mitocondria {
+        right: 570px;
+    }
+    .reticulo {
+        right: 316px;
+    }
+    .peroxisoma {
+        right: 620px;
+    }
+    .centrosoma {
+        right: 320px;
+        top: 240px;
+    }
+    .golgi {
+        right: 520px;
+    }
+    .ribosoma {
+        right: 670px;
+    }
+}
+@media (min-width: 1050px){
+    .nucleo {
+        right: 350px;
+    }
+    .lisosoma {
+        right: 500px;
+    }
+    .mitocondria {
+        right: 600px;
+    }
+    .reticulo {
+        right: 346px;
+    }
+    .peroxisoma {
+        right: 650px;
+    }
+    .centrosoma {
+        right: 350px;
+        top: 270px;
+    }
+    .golgi {
+        right: 550px;
+    }
+    .ribosoma {
+        right: 700px;
+    }
+}
+@media (min-width: 1100px){
+    .nucleo {
+        right: 350px;
+    }
+    .lisosoma {
+        right: 500px;
+    }
+    .mitocondria {
+        right: 600px;
+    }
+    .reticulo {
+        right: 346px;
+    }
+    .peroxisoma {
+        right: 650px;
+    }
+    .centrosoma {
+        right: 350px;
+        top: 270px;
+    }
+    .golgi {
+        right: 550px;
+    }
+    .ribosoma {
+        right: 710px;
+    }
+}
+@media (min-width: 1200px){
+    .nucleo {
+        right: 400px;
+    }
+    .lisosoma {
+        right: 550px;
+    }
+    .mitocondria {
+        right: 650px;
+    }
+    .reticulo {
+        right: 396px;
+    }
+    .peroxisoma {
+        right: 750px;
+    }
+    .centrosoma {
+        right: 400px;
+        top: 270px;
+    }
+    .golgi {
+        right: 600px;
+    }
+}
+@media (min-width: 1250px){
+    .nucleo {
+        right: 450px;
+    }
+    .lisosoma {
+        right: 600px;
+    }
+    .mitocondria {
+        right: 700px;
+    }
+    .reticulo {
+        right: 446px;
+    }
+    .peroxisoma {
+        right: 800px;
+    }
+    .centrosoma {
+        right: 450px;
+        top: 270px;
+    }
+    .golgi {
+        right: 650px;
+    }
+}
+@media (min-width: 1350px){
+    .nucleo {
+        right: 480px;
+    }
+    .lisosoma {
+        right: 630px;
+    }
+    .mitocondria {
+        right: 730px;
+    }
+    .reticulo {
+        right: 476px;
+    }
+    .peroxisoma {
+        right: 830px;
+    }
+    .centrosoma {
+        right: 480px;
+        top: 270px;
+    }
+    .golgi {
+        right: 680px;
+    }
+}
+@media (min-width: 1350px){
+    .nucleo {
+        right: 500px;
+    }
+    .lisosoma {
+        right: 650px;
+    }
+    .mitocondria {
+        right: 750px;
+    }
+    .reticulo {
+        right: 496px;
+    }
+    .peroxisoma {
+        right: 850px;
+    }
+    .centrosoma {
+        right: 500px;
+        top: 270px;
+    }
+    .golgi {
+        right: 700px;
+    }
+}@media (min-width: 1450px){
+    .nucleo {
+        right: 530px;
+    }
+    .lisosoma {
+        right: 680px;
+    }
+    .mitocondria {
+        right: 780px;
+    }
+    .reticulo {
+        right: 526px;
+    }
+    .peroxisoma {
+        right: 880px;
+    }
+    .centrosoma {
+        right: 530px;
+        top: 270px;
+    }
+    .golgi {
+        right: 730px;
+    }
+}
