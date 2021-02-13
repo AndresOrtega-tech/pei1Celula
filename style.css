@@ -71,6 +71,12 @@ main {
     top: 20px;
     right: 30px;
 }
+.nuc {
+    position:absolute;
+    transform: rotate(50deg);
+    top: 70px;
+    left: 80px;
+}
 .lisosoma {
     display: flex;
     align-items: center;
@@ -176,4 +182,8 @@ footer {
     justify-content: center;
     position: absolute;
     bottom: 0;
+}
+a {
+    color: #000000;
+    text-decoration: none;
 }
