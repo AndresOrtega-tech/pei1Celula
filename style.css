@@ -80,7 +80,7 @@ main {
     background-color: #05f;
     position: absolute;
     top: 180px;
-    right: 580px;
+    right: 650px;
 }
 .mitocondria {
     width: 150px;
@@ -96,5 +96,84 @@ main {
     right: 750px;
 }
 .ribosoma {
-    
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    background-color: #690;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 500px;
+    right: 750px;
+}
+.reticulo {
+    width: 160px;
+    height: 160px;
+    border-radius: 75px;
+    opacity: 1;
+    position: absolute;
+    top: 365px;
+    right: 521px;
+    border: 2px #333 double;
+    transform: rotate(-50deg);
+}
+.reticulo1 {
+    transform: rotate(-40deg);
+    position: absolute;
+    right: 100px;
+    top: -20px;
+}
+.reticulo1 a {
+    font-size: 12px;
+    line-height: normal;
+}
+.peroxisoma {
+    width: 22px;
+    height: 22px;
+    border-radius: 11px;
+    background-color: #690;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 500px;
+    right: 835px;
+}
+.centrosoma {
+    width: 150px;
+    height: 60px;
+    border-radius: 30px 0 0 30px;
+    background-color: #091;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    display: flex;
+    transform: rotate(40deg);
+    top: 290px;
+    right: 500px;
+    flex-wrap: wrap;
+}
+.golgi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: #099;
+    position: absolute;
+    top: 330px;
+    right: 700px;
+    text-align: center;
+}
+footer {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    justify-content: center;
 }
