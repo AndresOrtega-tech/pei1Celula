@@ -42,6 +42,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 .principalc {
     width: 450px;
@@ -175,5 +176,4 @@ footer {
     justify-content: center;
     position: absolute;
     bottom: 0;
-    justify-content: center;
 }
