@@ -9,7 +9,7 @@ html {
 header {
     width: 80%;
     height: 50px;
-    margin: 25px auto 0;
+    margin: 15px auto 0;
     display: flex;
     background-color: #757575 ;
     align-items: center;
@@ -186,4 +186,9 @@ footer {
 a {
     color: #000000;
     text-decoration: none;
+}
+section {
+    width: 55%;
+    text-align: center;
+    margin-top: 10px;
 }
